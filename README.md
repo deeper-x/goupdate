@@ -1,14 +1,8 @@
 # goupdate
 
-Golang download instructions - command line
+Golang update script automation
 
-```bash
-
-chmod +x update.sh
-
-```
-
-Example 
+Usage: 
 ```bash
 ./update.sh go1.16.3
 ```
