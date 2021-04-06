@@ -8,7 +8,7 @@ chmod +x update.sh
 
 ```
 
-Run
+Example 
 ```bash
-./update.sh
+./update.sh go1.16.3
 ```
