@@ -3,7 +3,7 @@ set -o nounset
 
 # Step 1 - setup env
 export GONVER=${1}
-# TODO - check parameter semver and regexp
+# TODO - check parameter semver and regexp, with format "go1.16.3"
 
 export GOPATH=${HOME}/go
 export GOBIN=${GOPATH}/bin
